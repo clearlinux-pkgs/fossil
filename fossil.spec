@@ -4,7 +4,7 @@
 #
 Name     : fossil
 Version  : 2.15.2
-Release  : 12
+Release  : 13
 URL      : https://www.fossil-scm.org/home/uv/fossil-src-2.15.2.tar.gz
 Source0  : https://www.fossil-scm.org/home/uv/fossil-src-2.15.2.tar.gz
 Summary  : A simple, high-reliability, distributed software configuration management system

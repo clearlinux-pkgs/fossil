@@ -1,5 +1,5 @@
 PKG_NAME := fossil
-URL = https://www.fossil-scm.org/home/tarball/f9aa474081f0618c76f4c2f4d6f0277a3fd480aa185d7da0b8b61b00fad1aa78/fossil-src-2.21.tar.gz
+URL = https://fossil-scm.org/home/tarball/8f798279d5f7c3288099915f2ea88c57b6d6039f3f05eac5e237897af33376dc/fossil-src-2.25.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
